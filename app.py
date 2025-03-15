@@ -1,1 +1,2 @@
-from flask import flask
+from flask import Flask
+print(__name__)
